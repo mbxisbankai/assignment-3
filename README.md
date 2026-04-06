@@ -72,13 +72,13 @@ cd path/to/your/project
 ```
 
 
-### Step 5: Clone the repository
+### Step 6: Clone the repository
 
 ```bash
 git clone git@github.com:mbxisbankai/assignment-3.git
 ```
 
-### Step 6: Pushing code
+### Step 7: Pushing code
 
 - Connect to the repository
 
@@ -110,7 +110,7 @@ git commit -m "your-commit-message"
 git push -u origin main
 ```
 
-### Step 7: Making changes
+### Step 8: Making changes
 
 - When making changes, follow these steps
 
@@ -120,7 +120,7 @@ git commit -m "your-commit-message"
 git push origin main
 ```
 
-### Step 8: Getting the latest changes
+### Step 9: Getting the latest changes
 
 - To get the latest version of the repository
 
