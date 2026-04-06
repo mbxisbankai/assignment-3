@@ -109,3 +109,21 @@ git commit -m "your-commit-message"
 ```bash
 git push -u origin main
 ```
+
+### Step 7: Making changes
+
+- When making changes, follow these steps
+
+```bash
+git add .
+git commit -m "your-commit-message"
+git push origin main
+```
+
+### Step 8: Getting the latest changes
+
+- To get the latest version of the repository
+
+```bash
+git pull origin main
+```
