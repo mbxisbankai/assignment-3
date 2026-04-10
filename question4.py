@@ -6,4 +6,4 @@ for n in range(1,n+1):
     total_sales=a+b+c+d+e
     grand_sales+=total_sales
     print("total sales for",sales_person,":",total_sales)
-print(f"grand_total:",grand_sales)    
+print("grand_total:",grand_sales)    
